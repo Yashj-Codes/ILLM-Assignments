@@ -1,0 +1,22 @@
+{
+  "language": "guj_Gujr",
+  "sentences": 1000000,
+  "split_hash": "fd0f3fa0e7",
+  "train_sentences": 997986,
+  "train_tokens": 15210546,
+  "vector_size": 100,
+  "window": 5,
+  "min_count": 5,
+  "sg": 1,
+  "epochs": 5,
+  "d2v_epochs": 10,
+  "w2v_vocab": 113867,
+  "ft_vocab": 113867,
+  "d2v_docs": 997986,
+  "k_clusters": 50,
+  "cluster_top_words": 50000,
+  "nn_pool": 20000,
+  "nn_queries": 1000,
+  "nn_pool_source": "self",
+  "centered": true
+}
