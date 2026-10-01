@@ -1,0 +1,19 @@
+{
+  "language": "guj_Gujr",
+  "preset": "full",
+  "seed": 42,
+  "strategy": "uniform",
+  "n_buckets": 10,
+  "min_words": 3,
+  "max_words": 200,
+  "total_sentences": 1000000,
+  "train_sentences": 998000,
+  "dev_sentences": 1000,
+  "test_sentences": 1000,
+  "sha256": {
+    "train": "fd0f3fa0e7b0a552fdc93629f7ff3a79b8c8aa71eff403ca9bca47be189db7a2",
+    "dev": "55457a11cce035024b42aabe0e965a088d0476abbf8e5b93e633c03a47c2a4ac",
+    "test": "2098e7863da45daecc911c5823f9446d9d8c4e754bfff85a0e23fccf2d234bb2"
+  },
+  "created": "2026-09-03 04:21:29"
+}
